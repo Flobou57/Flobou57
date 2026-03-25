@@ -93,15 +93,7 @@ langues:
 
 <br>
 
-## `> activity`
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Flobou57&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" width="95%" />
-
-</div>
-
-<br>
 
 ## `> current_focus`
 
