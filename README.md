@@ -93,16 +93,11 @@ langues:
 
 <br>
 
-## `> stats`
+## `> activity`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Flobou57&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flobou57&layout=compact&langs_count=10&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Flobou57&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Flobou57&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" width="95%" />
 
 </div>
 
