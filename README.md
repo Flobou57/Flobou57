@@ -1,101 +1,128 @@
-# 👋 Salut, moi c'est Florian
+<div align="center">
 
-🎓 Étudiant en **BUT Informatique** — IUT de Metz, Université de Lorraine
-💻 Développeur **Web / Mobile / Automatisation**
-🚗 Passionné d'**automobile**, de **jeux de stratégie** et de **voyages**
-🚀 En montée de compétences sur le **développement web moderne et l'automatisation**
+# Florian Bousser
 
----
+**Développeur Web Full-Stack | Étudiant BUT Informatique**
 
-## 🧠 Profil
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florianbousser-x1)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florian.bousser@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Flobou57)
 
-Développeur motivé avec de solides bases en **développement web full-stack**, orienté vers la création d'applications performantes et modernes. Actuellement en stage chez **GSE Concept** où je travaille sur l'automatisation (n8n), le développement web et l'optimisation de code.
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=D%C3%A9veloppeur+Web+Full-Stack;%C3%89tudiant+en+BUT+Informatique;Passionn%C3%A9+par+l'automatisation;Toujours+en+train+d'apprendre" alt="Typing SVG" />
 
-## 🧩 Compétences principales
-
-### 🔹 Langages
-
-- HTML, CSS, JavaScript, TypeScript
-- PHP, SQL, Python, Java
-- Dart
-
-### 🔹 Développement Web & Frameworks
-
-- Symfony
-- Node.js
-- Vite
-
-### 🔹 Mobile
-
-- Flutter, Dart
-
-### 🔹 Bases de données
-
-- MySQL, MongoDB
-- phpMyAdmin, MySQL Workbench
-
-### 🔹 Outils & DevOps
-
-- Docker
-- Git / GitHub
-- n8n (automatisation)
-- VS Code
-
-### 🔹 Design & Gestion
-
-- Figma, Trello
-- Adobe Photoshop, Canva
+</div>
 
 ---
 
-## 🛠️ Technologies & outils
+<br>
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,dart,symfony,flutter,mysql,mongodb,docker,git,github,vscode,figma,linux)
+## `> whoami`
+
+```yaml
+nom: Florian Bousser
+localisation: Erstroff, Moselle (57)
+formation: BUT Informatique — IUT de Metz, Université de Lorraine
+spécialisation: Réalisation d'applications web
+stage_actuel: GSE Concept — Automatisation & Développement Web
+langues:
+  - Français (natif)
+  - Anglais (B2)
+  - Allemand (B1)
+```
+
+<br>
+
+## `> skills --list`
+
+<div align="center">
+
+### Langages
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### Frameworks & Outils
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+### Base de données
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### DevOps & Outils
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+<br>
+
+## `> experience --recent`
+
+| Période | Entreprise | Mission |
+|:-------:|:----------:|:--------|
+| `2026` | **GSE Concept** | Automatisation n8n · Dev web · Tests · Documentation |
+| `2025` | **Au Fer Rouge** | Site de réservation · Boutique en ligne · Gestion back-office |
+| `2019` | **HYD&AU VERINS** | Stage découverte · Logiciels de gestion & production |
+
+<br>
+
+## `> education`
+
+```
+2023 — 2026  ·  BUT Informatique (option web)  ·  IUT Saulcy, Metz
+2023         ·  Bac Général Mention AB          ·  Lycée Charles Jully, Saint-Avold
+               (spé Mathématiques & NSI)
+```
+
+<br>
+
+## `> stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Flobou57&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flobou57&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" />
+
+</div>
+
+<br>
+
+## `> current_focus`
+
+```js
+const florian = {
+  stage: "GSE Concept — Automatisation & Dev Web",
+  learning: ["React Three Fiber", "Flutter", "n8n workflows"],
+  interests: ["Web 3D", "Automatisation", "DevOps"],
+  hobbies: ["Automobile", "Jeux de stratégie", "Sport", "Voyages"],
+};
+```
+
+<br>
+
+<div align="center">
 
 ---
 
-## 📈 Ce que je fais en ce moment
+*Merci d'avoir visité mon profil !*
 
-- 🔧 Stage chez **GSE Concept** — automatisation n8n, dev web, tests
-- 🌐 Développement **Web 3D** (Three.js, React Three Fiber)
-- 📱 Montée en compétences sur **Flutter & TypeScript**
-- 🤖 Projets d'**automatisation** et d'optimisation
+<img src="https://komarev.com/ghpvc/?username=Flobou57&style=flat-square&color=6C63FF" alt="Profile views" />
 
----
-
-## 🎓 Formation
-
-- **2023 - 2026** — BUT Informatique, IUT Saulcy, Metz (option réalisation d'applications web)
-- **2023** — Bac général Mention AB, Lycée Charles Jully, Saint-Avold (spé maths & NSI)
-
----
-
-## 💼 Expériences
-
-| Période | Entreprise | Poste |
-|---------|-----------|-------|
-| Fév - Juin 2026 | **GSE Concept** | Stage 3e année — Automatisation, dev web, tests |
-| Avr - Juin 2025 | **Au Fer Rouge** | Stage 2e année — Site de réservation, boutique en ligne |
-| Nov 2019 | **HYD&AU VERINS** | Stage découverte 3e |
-
----
-
-## 🌍 Langues
-
-- 🇫🇷 Français — Langue maternelle
-- 🇬🇧 Anglais — B2
-- 🇩🇪 Allemand — B1
-
----
-
-## 📫 Me contacter
-
-- 💼 LinkedIn : [florianbousser-x1](https://www.linkedin.com/in/florianbousser-x1)
-- 📧 Email : florian.bousser@gmail.com
-- 🐙 GitHub : [Flobou57](https://github.com/Flobou57)
-
----
-
-⭐ N'hésite pas à explorer mes repositories et à suivre mon évolution !
+</div>
